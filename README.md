@@ -40,7 +40,7 @@ You can install the translation system in just three steps:
 3. Run `docker-compose up -d`.
 
 At this point, you will have a copy of the translation system up
-and running at `http://your_server_address:9000/`.
+and running at `http://your_server_address:8880/`.
 You may optionally perform the following tasks:
 
 * To create essential data for the system such as admin users and groups,
