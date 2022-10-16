@@ -29,7 +29,7 @@ services:
     restart: always
     build: ./nginx/
     ports:
-    - 9000:80
+    - 8880:80
     depends_on:
     - app
     volumes:
